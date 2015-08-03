@@ -1,6 +1,6 @@
 {
-  "name": "fira-electron",
-  "version": "0.1.0",
+  "name": "fira-compact",
+  "version": "0.1.1",
   "authors": [
     "The Mozilla Foundation"
   ],
@@ -9,11 +9,12 @@
     "Electron",
     "mozilla",
     "fira",
-    "font"
+    "font",
+    "compact"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/develephant/fira-electron.git"
+    "url": "git+https://github.com/develephant/fira-compact.git"
   },
   "license": "OFL",
   "ignore": [
