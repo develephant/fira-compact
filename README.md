@@ -1,7 +1,24 @@
-See http://www.carrois.com/fira-4-1/ for more details.
+# Fira compact
 
-Use this font on your website!
+This install will just add the __woff2__ files to your Electron project.
+
+## Install
+
+`bower install develephant/fira-compact --save`
+
+## Import
 
 ```html
-<link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css">
+<!-- index.hmtl -->
+<script type="text/javascript" src="client/lib/fira-compact/fira.css"></script>
 ```
+
+## Implement
+
+```css
+.some-class {
+  font-family: "FiraSans-Light";
+}
+```
+
+See [Fira Firefox OS Typeface](https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
